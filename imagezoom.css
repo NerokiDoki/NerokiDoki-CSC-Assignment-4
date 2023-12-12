@@ -1,0 +1,30 @@
+body/* Changing background color*/
+{
+    background: url(https://images5.alphacoders.com/132/1329624.png), center fixed;
+    background-position: initial;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+
+p /*Changing the alignment of the p text, the color, the font size, style and weight!*/
+{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(255, 255, 255)
+
+}
+
+button /*Changed the color, fontstyle, border width, background color, border color and weight*/
+{
+    font-size: x-large;
+    font-weight: bold;
+    border-radius: 50px;
+    background-color: rgb(28,110,164);
+    border-color: rgb(99, 95, 95);
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.589), 0 6px 20px 0 rgba(0, 0, 0, 0.589);
+    
+}

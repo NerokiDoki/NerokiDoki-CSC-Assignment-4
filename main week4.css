@@ -1,0 +1,89 @@
+/* Cody Brennan
+
+*/
+body
+{
+    /* Changing background color*/
+    
+    background-image: linear-gradient(rgb(35, 35, 35),rgb(112, 112, 113));
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+p/*Changing the alignment of the p text, the color, the font size, style and weight!*/
+{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+    
+
+}
+
+nav/*Created a background for the nav buttons! Also changed the height and wdith of the box it was in*/
+{
+    background-color: aliceblue;
+    height: 50px;
+    width: 150px;
+}
+
+button/*Changed the color, width, word color, border color, height and border width!*/
+{
+    color: slateblue;
+    border-color: black;
+    border-width: 9px;
+    width: 150px;
+    height: 50px;
+    background-color: black;
+}
+
+footer /*Changed the background color for the footer!*/
+{
+    background-color: rgb(1, 53, 126);
+    font-size: medium;
+    font-weight: bolder;
+    font-style: oblique;
+    
+
+}
+
+
+ol /*Changed the color background for the Order List, Changed the font weight and style*/
+{
+    background-color: aliceblue;
+    font-style: italic;
+    font-weight: bolder;
+    
+
+
+}
+
+img /*Align wasn't working so I went onto W3, for help to figure out a way to center the image. So I used this to center it by setting left and right margin to auto to mkae a block element */
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+
+ul /*changed the UL to have a background color, to be italic and bolder, and the box its in to fit*/
+{
+    background-color: aliceblue;
+    font-style:italic;
+    font-weight:bolder;
+    height: 55px;
+    width: 150px;
+}
+
+audio /*tried to change the background color of the player to black. But it only changed the very edges*/
+{
+ background-color: black;
+
+}
